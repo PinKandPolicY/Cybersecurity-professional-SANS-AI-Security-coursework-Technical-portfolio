@@ -67,7 +67,7 @@ Currently focused on the intersection of AI, cybersecurity, governance transform
 - 28+ years in IT and cybersecurity
 - CISSP (Certified Information Systems Security Professional) - 2017
 - Career arc: Software Engineering → Database Administration → Production Support → 
-  Cybersecurity Program Management and Governance
+  Cybersecurity Program Management and Governance → Data Quality Governance
 - PMP (Project Management Professional) - 2026
 - GASAE (GIAC AI Security Automation Engineer) - 2026
     
